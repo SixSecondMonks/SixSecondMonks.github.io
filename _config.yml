@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Six Second Monks"
+title                    : "6SM"
 title_separator          : "-"
-name                     : "SSM"
+name                     : "Six Second Monks"
 description              : "Documenting the misadventures of a hacker collective in the Bay Area."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://sixsecondmonks.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "SixSecondMonks/SixSecondMonks.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -79,9 +79,9 @@ analytics:
 author:
   name             : "Six Second Monks"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              :
+  bio              : "Documenting the misadventures of a hacker collective."
   location         : "Bay Area"
-  email            :
+  email            : "contact@sixsecondmonks.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -89,7 +89,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "https://github.com/SixSecondMonks"
   google_plus      :
   keybase          :
   instagram        :
