@@ -16,18 +16,18 @@ We had an excellent time at Burning Man 2015, and we especially enjoyed showing 
 
 Here's what it looked like from above at night. Our LED wall is in the carport to the left.
 
-![Overview](/assets/images/bm-2015-overview.jpeg)
+![Overview](/assets/images/bm-2015/bm-2015-overview.jpeg)
 
 We noticed that people loved to dance along with the adjacent BAAHS art car!
 
-![Inside the tent](/assets/images/bm-2015-in-tent.jpeg)
+![Inside the tent](/assets/images/bm-2015/bm-2015-in-tent.jpeg)
 
 Raise your right hand if you are having fun!
 
-![Raise your hand if you are having fun!](/assets/images/bm-2015-raise-hand.jpeg)
+![Raise your hand if you are having fun!](/assets/images/bm-2015/bm-2015-raise-hand.jpeg)
 
 Burners discover the Sanctuary.
 
-![People gaze in wonder.](/assets/images/bm-2015-gazing-in-wonder.jpeg)
+![People gaze in wonder.](/assets/images/bm-2015/bm-2015-gazing-in-wonder.jpeg)
 
 The Sanctuary of Self was a blast, and we hope to bring it next year — upgraded and improved! Just what will these improvements be, you ask? Stay tuned... or tell us what you would like to see!
