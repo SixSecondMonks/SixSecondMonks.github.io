@@ -1,7 +1,6 @@
 ---
 layout: single
 title: "Hex Lights"
-permalink: /hex-lights
 ---
 
 ### Project Details
