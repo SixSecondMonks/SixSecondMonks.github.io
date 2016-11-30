@@ -1,10 +1,12 @@
 ---
-layout: single
+layout: archive
 permalink: /our-projects
 title: "Our Projects"
-author_profile: true
+author_profile: false
 ---
 
-{% for project in site.projects %}
-- [{{project.title}}]({{project.url}})
+<div class="grid__wrapper">
+{% for post in site.projects %}
+	{% include archive-single.html type="grid" %}
 {% endfor %} 
+</div>

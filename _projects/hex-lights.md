@@ -1,6 +1,10 @@
 ---
 layout: single
 title: "Hex Lights"
+categories:
+  - Burning Man
+  - LED
+  - AllPixel
 ---
 
 ### Project Details
