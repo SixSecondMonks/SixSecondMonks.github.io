@@ -14,7 +14,7 @@ categories:
 * Single RJ45 connector
 * Running [light-modules](http://github.com/sixsecondmonks/light-modules) project on a cheap controller like RPi3 or C.H.i.P
 
-![Inside the tent](/assets/images/hex-light/hexlight-model.png)
+![Rendered](/assets/images/hex-light/hexlight-model.png)
 
 Part of a experiment with delivering data and power over CAT5, the module was intentionally wired to have a single input, a RJ45 jack.
 
