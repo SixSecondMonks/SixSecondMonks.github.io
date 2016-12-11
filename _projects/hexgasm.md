@@ -6,8 +6,9 @@ categories:
   - LED
   - Sound
   - Vibration
+excerpt: "Details forthcoming."
 ---
 
 ### Hexgasm
 
-Details here
+TBD

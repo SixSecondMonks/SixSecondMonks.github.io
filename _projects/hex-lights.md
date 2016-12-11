@@ -5,6 +5,9 @@ categories:
   - Burning Man
   - LED
   - AllPixel
+header:
+  teaser: /assets/images/hex-light/hexlight-model.png
+excerpt: "An experiment with LED-lighted, 3-dimensional shapes."
 ---
 
 ### Project Details
@@ -28,7 +31,7 @@ Part of a experiment with delivering data and power over CAT5, the module was in
 
 ### Improvements Considered
 
-* Convert entire system to 48V (similiar to Power over Ethernet).  This makes the design more complex by having to include data converters for the 48V data line to 5V data internally.  
+* Convert entire system to 48V (similiar to Power over Ethernet).  This makes the design more complex by having to include data converters for the 48V data line to 5V data internally.
 * 48V power supplies are more exotic as well than 12V or 24V counterparts.
 * 48V -> 5V downsteppers are harder to find.
 

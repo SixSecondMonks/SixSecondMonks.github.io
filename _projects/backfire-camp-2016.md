@@ -1,11 +1,14 @@
 ---
 layout: single
-title: "Backfire Camp - Da Vinci's Workshop (2016)"
+title: "Backfire Camp (2016)"
 categories:
   - Burning Man
   - LED
   - Sound
   - Vibration
+header:
+  teaser: /assets/images/bm-2016/backfire-social-2.jpg
+excerpt: "An ASL-friendly, maker-centric camp at Burning Man 2016."
 ---
 
 Backfire came to the playa for the first time in 2016.  We were given the location of Cosimo and 7:15 by the fine folks at placement!
@@ -24,7 +27,7 @@ Our site as it looked when we rolled in for Early Arrival.
 
 # Events
 
-### Vietnamese Coffee and ASL 
+### Vietnamese Coffee and ASL
 On Tuesday and Thursday morning during the week of the burn, the camp came together to provide delicious freshly-brewed vietnamese coffee to anyone who passed by.  In addition, due to our camp being largely ASL-signers, we offered improtu lessons to anyone who stopped in and wanted to learn a few signs while enjoying their coffee.
 
 ### Friday Night Bash
@@ -35,7 +38,7 @@ We brought several interactive light and sound pieces.  [LED Wall](/projects/led
 
 ## Photos
 
-### Backfire camp at night 
+### Backfire camp at night
 ![Rendered](/assets/images/bm-2016/backfire-frontage.jpg)
 
 ### Backfire Sign
@@ -50,13 +53,13 @@ We brought several interactive light and sound pieces.  [LED Wall](/projects/led
 If you've read down this far and really are interested in details on the camp infrastructure and what we learned, we're sharing those details below.
 
 ### Lag Screws
-This was our first year experimenting with lag-screws.  
+This was our first year experimenting with lag-screws.
 
-The camp purchased [14-inch 3/8" zinc-plated lag screws](http://www.fastenersuperstore.com/products/476110/lag-screws?pid=17303).  Galvanized screws were far more expensive and deemed unnecessary.  They were more than enough for securing tents and the shade structures.  
+The camp purchased [14-inch 3/8" zinc-plated lag screws](http://www.fastenersuperstore.com/products/476110/lag-screws?pid=17303).  Galvanized screws were far more expensive and deemed unnecessary.  They were more than enough for securing tents and the shade structures.
 
 In addition, 8" lag-screw was tested in the playa surface but one of the EA members was able to physically pull the screw out of the ground with considerable effort.  So this shows that 8" does not go deep enough for secure placement.
 
-The 14" screws were very well received in terms of how much easier it was to drive in the playa surface and to remove as opposed to pounding and pulling rebar.  
+The 14" screws were very well received in terms of how much easier it was to drive in the playa surface and to remove as opposed to pounding and pulling rebar.
 
 ### Lag Screw Requirements
 The camp purchased a low-cost [Harbor Freight Impact Wrench](http://www.harborfreight.com/12-in-heavy-duty-electric-impact-wrench-68099.html) which required the generator and a long enough cord to reach all the job sites.  The HF driver had no trouble driving screws continuously.
@@ -68,7 +71,7 @@ The camp plans to invest in more lag-screws and make more widespread use of it i
 ### Shade Structures
 
 ### Chill Space
-We purchased a 36'x 20' shade structure from Black Rock Hardware.  It was very well packaged and no trouble setting up on playa.  
+We purchased a 36'x 20' shade structure from Black Rock Hardware.  It was very well packaged and no trouble setting up on playa.
 
 We modified the setup slightly that instead of pounding down rebar to slip the vertical poles over, we purchased 1" conduit footing that had holes on the feet.  We then used lag screws to fasten the feet to the playa surface.  One screw per foot was more than adequate.  A 36x20 shade would require 12 foot pieces.
 
@@ -81,7 +84,7 @@ The kitchen was built from two carports joined together.
 For our campers who didn't have luxurious accomodations such as an RV or Shiftpod, we made their homes a bit less onerous under the desert sun by erecting a giant 50' x 50' shade using Alumninet.
 
 ### Playa Flooring
-The camp salvaged vinyl flooring from a local climbing gym for the 36' x 20' shade space.  It worked very well, but it was quite heavy and bulky to transport.  The camp also purchased vinyl material that was previously used on billboard advertisements for use in the kitchen.  The billboard vinyl was thinner than the climbing gym flooring and much easier to fold-up/handle/transport.  Both vinyl surfaces stood up to the foot-traffic throughout the week without tearing or wearing out.  It is the opinion of this author that the billboard advertisement vinyl is more than suitable and easier to transport than the climbing gym flooring vinyl. 
+The camp salvaged vinyl flooring from a local climbing gym for the 36' x 20' shade space.  It worked very well, but it was quite heavy and bulky to transport.  The camp also purchased vinyl material that was previously used on billboard advertisements for use in the kitchen.  The billboard vinyl was thinner than the climbing gym flooring and much easier to fold-up/handle/transport.  Both vinyl surfaces stood up to the foot-traffic throughout the week without tearing or wearing out.  It is the opinion of this author that the billboard advertisement vinyl is more than suitable and easier to transport than the climbing gym flooring vinyl.
 
 ### Kitchen
 The camp brought 5 20# propane canisters.  We ended up only using two.  Cooking stove was the large three-burner camping stove type which offered excellent cooking speeds.
@@ -90,10 +93,7 @@ Composting
 
 Garbage
 
-Cleaning dishes was the biggest pain point. 
+Cleaning dishes was the biggest pain point.
 
 ### Power
 Given that the camp power needs was mostly concentrated around the chill space and kitchen, a single `Honda EU7000is` was rented for the duration of the burn.  The camp also had a backup generator of a older/louder kind but it was never used.  The `EU7000is` worked without any trouble the entire week.  Fuel consumption was okay the first few days until we discovered that Eco-Throttle was turned off.  Enabling that greatly improved fuel consumption, especially when loads were low.  The generator consumed about 2-3 gallons of fuel every day.
-
-
-

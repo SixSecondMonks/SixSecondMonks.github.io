@@ -6,6 +6,9 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   cta_label: "More Info"
   cta_url: "https://unsplash.com"
+header:
+  teaser: /assets/images/led-wall/at-mini-maker-faire.jpg
+excerpt: "A 8 foot tall LED monolith."
 ---
 
-This is the LED Wall with Kinect.
+TBD.
