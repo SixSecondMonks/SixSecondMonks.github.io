@@ -48,3 +48,49 @@ excerpt: "A 8 foot tall LED monolith."
 - Red Button
 
     A [very simple Visual Basic Script](https://github.com/SixSecondMonks/sos-display/blob/master/startup/emit.vbs) emits the letter 'n' when this button is pressed; the web application listens for this keypress and switches to the next mode.
+
+## Process
+
+### Prototyping
+
+We prototyped our idea by building a small frame and hooking the panels up to one power supply.
+
+![Prototype wall](/assets/images/led-wall/assembling-partial-wall.jpg)
+
+### Building the Frame
+
+![Tim and James drill the frame](/assets/images/led-wall/drilling-frame.jpg)
+
+We needed to build the full frame for all 30 panels.
+
+![Full frame](/assets/images/led-wall/bare-frame.jpg)
+
+### Assembling the Wall
+
+The panels were slid in place. We used M4 screws and washers for this, but ran out of parts halfway through and had to make do with whatever we had on hand.
+
+![Assembling the wall](/assets/images/led-wall/assembling-full-led-wall.jpg)
+
+The final wiring, as seen from the back.
+
+![full-back.jpg](/assets/images/led-wall/full-back.jpg)
+
+Obligatory congratulatory snapshot.
+
+![success-at-build.jpg](/assets/images/led-wall/success-at-build.jpg)
+
+### At Mini-Maker Faire
+
+Demoing for kids at Oakland's mini-Maker Faire.
+
+![at-maker-faire.jpg](/assets/images/led-wall/at-maker-faire.jpg)
+
+### At Burning Man
+
+We left the wall running overnight. Random people would come up and dance.
+
+![at-burning-man-1.jpg](/assets/images/led-wall/at-burning-man-1.jpg)
+
+This mode, with flame, proved to be quite popular.
+
+![at-burning-man-3.jpg](/assets/images/led-wall/at-burning-man-3.jpg)
